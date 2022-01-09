@@ -1,16 +1,21 @@
-### Hi there 👋
+경제적 자유를 꿈꾸는 웹개발자 이승원 입니다.
 
-<!--
-**SquareOne073/SquareOne073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stack
 
-Here are some ideas to get you started:
+* Back-end
+  - JAVA 8
+  - Oracle SQL
+  - Spring (boot) & JSP
+  - Mybatis
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Front-end
+  - HTML5 & CSS3 & JavaScript
+  - jQuery
+  
+  
+* Usable IDE
+  - eclipseEE
+  - intelliJ
+  - VScode
+
